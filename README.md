@@ -49,7 +49,7 @@ Take a look at some snapshots from the game :
                 <img src="https://raw.githubusercontent.com/naimyc/SunsetStrike/refs/heads/main/assets/img/uiTiles.png" width="350" />
   </div>
   
-## 👉 Watch the Preview - [Sunset Strike - Official Webpage](#)
+## 👉 Watch the Preview - [Sunset Strike - Official Webpage](#https://byakko.blog/my-projects/)
 
 [![Watch the Preview](https://raw.githubusercontent.com/naimyc/SunsetStrike/refs/heads/main/src/InGameGIF.gif)](#)
 [![Watch the Preview](https://raw.githubusercontent.com/naimyc/SunsetStrike/refs/heads/main/src/InGameGIF2.gif)](#)
