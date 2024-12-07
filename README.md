@@ -5,7 +5,7 @@
   <tr>
     <!-- Image on the left -->
     <td style="width: 50%; padding-right: 20px; vertical-align: top; text-align: center;">
-      <img src="https://raw.githubusercontent.com/naimyc/SunsetStrike/blob/main/Home_Screen.png" width="100%" style="max-width: 600px;" />
+      <img src="https://raw.githubusercontent.com/naimyc/SunsetStrike/refs/heads/main/src/Home_Screen.png" width="100%" style="max-width: 600px;" />
     </td>
     <!-- Links in the middle -->
     <!-- Text on the right -->
@@ -37,22 +37,22 @@ Take a look at some snapshots from the game :
 
 `InGame Images` & `Tiles for the game`
 <div>
-<!--   <img src="https://raw.githubusercontent.com/naimyc/SunsetStrike/blob/main/Home_Screen.png" width="300" /> -->
-    <img src="https://raw.githubusercontent.com/naimyc/SunsetStrike/blob/main/InGame.png" width="300" />
-  <img src="https://raw.githubusercontent.com/naimyc/SunsetStrike/blob/main/InGame4.png" width="300" />
+<!--   <img src="https://raw.githubusercontent.com/naimyc/SunsetStrike/refs/heads/main/src/Home_Screen.png" width="300" /> -->
+    <img src="https://raw.githubusercontent.com/naimyc/SunsetStrike/refs/heads/main/src/InGame.png" width="300" />
+  <img src="https://raw.githubusercontent.com/naimyc/SunsetStrike/refs/heads/main/src/InGame4.png" width="300" />
 </div>
 
 
   <div>
-    <img src="https://raw.githubusercontent.com/naimyc/SunsetStrike/blob/main/src/img/MapTiles.png" width="320" />
-<img src="https://raw.githubusercontent.com/naimyc/SunsetStrike/blob/main/src/img/MobTiles.png" width="300" />
-                <img src="https://raw.githubusercontent.com/naimyc/SunsetStrike/blob/main/src/img/uiTiles.png" width="350" />
+    <img src="https://raw.githubusercontent.com/naimyc/SunsetStrike/refs/heads/main/assets/img/MapTiles.png" width="320" />
+<img src="https://raw.githubusercontent.com/naimyc/SunsetStrike/refs/heads/main/assets/img/MobTiles.png" width="300" />
+                <img src="https://raw.githubusercontent.com/naimyc/SunsetStrike/refs/heads/main/assets/img/uiTiles.png" width="350" />
   </div>
   
 ## 👉 Watch the Preview - [Sunset Strike - Official Webpage](#)
 
-[![Watch the Preview](https://raw.githubusercontent.com/naimyc/SunsetStrike/blob/main/InGameGIF.gif)](#)
-[![Watch the Preview](https://raw.githubusercontent.com/naimyc/SunsetStrike/blob/main/InGameGIF2.gif)](#)
+[![Watch the Preview](https://raw.githubusercontent.com/naimyc/SunsetStrike/refs/heads/main/src/InGameGIF.gif)](#)
+[![Watch the Preview](https://raw.githubusercontent.com/naimyc/SunsetStrike/refs/heads/main/src/InGameGIF2.gif)](#)
 
 ## 💕 Contributing
 
